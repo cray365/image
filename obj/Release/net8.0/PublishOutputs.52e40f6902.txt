@@ -1,0 +1,7 @@
+C:\Users\anand\Desktop\Placements\data_enginnering\udemyCourse\section3\ContainerTest\ContainerTest\obj\Release\net8.0\PubTmp\Out\ContainerTest.exe
+C:\Users\anand\Desktop\Placements\data_enginnering\udemyCourse\section3\ContainerTest\ContainerTest\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\anand\Desktop\Placements\data_enginnering\udemyCourse\section3\ContainerTest\ContainerTest\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\anand\Desktop\Placements\data_enginnering\udemyCourse\section3\ContainerTest\ContainerTest\obj\Release\net8.0\PubTmp\Out\ContainerTest.dll
+C:\Users\anand\Desktop\Placements\data_enginnering\udemyCourse\section3\ContainerTest\ContainerTest\obj\Release\net8.0\PubTmp\Out\ContainerTest.deps.json
+C:\Users\anand\Desktop\Placements\data_enginnering\udemyCourse\section3\ContainerTest\ContainerTest\obj\Release\net8.0\PubTmp\Out\ContainerTest.runtimeconfig.json
+C:\Users\anand\Desktop\Placements\data_enginnering\udemyCourse\section3\ContainerTest\ContainerTest\obj\Release\net8.0\PubTmp\Out\ContainerTest.pdb
